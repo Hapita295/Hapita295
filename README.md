@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hapita295
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ethical hacking
+- 🌱 I’m currently learning data analysis with python
+- 💞️ I’m looking to collaborate on anything python
 - 📫 How to reach me Ibrahimroble2@gmail.com
 
 <!---
